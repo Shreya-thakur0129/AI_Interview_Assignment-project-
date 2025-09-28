@@ -3,13 +3,13 @@
 A modern interview assistant powered by:
 
 ⚛️ Frontend: Vite + React + TailwindCSS + TypeScript
-🗄 State Management: Context API / Redux (with local persistence)
+🗄 State Management: Context API with local persistence
 🎨 UI: shadcn/ui + Tailwind
 🤖 AI Workflow: Dynamic Q&A + Resume Parsing + Scoring
 
 ⚙️ Full Setup Instructions
 🔹 Step 1: Clone the Repository
-git clone https://github.com/your-username/AI_Interview_Assignment.git
+git clone https://github.com/Shreya-thakur0129/AI_Interview_Assignment-project-.git
 cd AI_Interview_Assignment/project
 
 🔹 Step 2: Install Dependencies
@@ -57,6 +57,6 @@ Frontend: React + Vite + TypeScript
 
 Styling: TailwindCSS + shadcn/ui
 
-State Management: Context API / Redux Persist
+State Management: Context API
 
 Tooling: ESLint + Prettier
